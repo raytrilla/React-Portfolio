@@ -11,16 +11,16 @@ Technologies used:
 The portfolio contains the following information:
   * My name
 
-Links to your:
+Links to:
     * GitHub Profile
     * LinkedIn Page
     * Email Address
     * Phone Number
-    * PDF version of your resume
+    * PDF version of my resume
 
 * My resume contains up-to-date projects and professional experience
 
-A list of projects (Challenges or Projects). For each project, make sure you have the following:
+A list of projects. Each project has the following:
     * Project title
     * Link to the deployed version
     * Link to the GitHub repository
